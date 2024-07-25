@@ -1,0 +1,41 @@
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table-dark {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.table-dark th {
+    border: 1px solid #454d55;
+}
+
+.flag {
+    width: 20px;
+    height: 15px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.today-column {
+    background-color: #e6f7ff !important;
+}
+
+.selected-column {
+    background-color: #fff7e6 !important;
+}
+
+th.today-column {
+    background-color: #007df8 !important;
+}
+
+th.selected-column {
+    background-color: #ffac00 !important;
+}
